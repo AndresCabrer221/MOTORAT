@@ -80,7 +80,7 @@
   </div>
 
   <div class="hero-right" style="display:none;">
-    <img src="moto1.png" alt="Moto Rat — imagen">
+    <img src="moto1.jpeg" alt="Moto Rat — imagen">
   </div>
 </section>
 
